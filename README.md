@@ -1,10 +1,13 @@
-[IMPLEMENTATION DETAILS.OB.pdf](https://github.com/user-attachments/files/28042882/IMPLEMENTATION.DETAILS.OB.pdf)
-[PPT.OB.pdf](https://github.com/user-attachments/files/28042357/PPT.OB.pdf)
-[ABSTRACT OB.pdf](https://github.com/user-attachments/files/28042321/ABSTRACT.OB.pdf)
+
 # Object Detection from Images
 
 ## Project Overview
 This project detects and identifies objects from input images using Deep Learning and Computer Vision techniques.
+
+## Project Documents
+[ABSTRACT OB.pdf](https://github.com/user-attachments/files/28042321/ABSTRACT.OB.pdf)
+[IMPLEMENTATION DETAILS.OB.pdf](https://github.com/user-attachments/files/28042882/IMPLEMENTATION.DETAILS.OB.pdf)
+[PPT.OB.pdf](https://github.com/user-attachments/files/28042357/PPT.OB.pdf)
 
 ## Technologies Used
 - Python
